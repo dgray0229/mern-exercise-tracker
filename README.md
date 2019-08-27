@@ -1,3 +1,9 @@
+# MERN Stack Exercise Tracker Project
+This project was to reacquaint myself with Node.js, Express, and MongoDB. The react front-end was fairly basic.
+This project uses Mongoose to create the database schema, and express for the API routing.
+
+You can see a hosted version of this project [here](https://mern-exercise-tracker-devin.herokuapp.com/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
